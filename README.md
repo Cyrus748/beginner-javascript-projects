@@ -1,4 +1,8 @@
 # beginner-javascript-projects
+
+1) Weather App :
+
+
 # JavaScript Starter Projects
 
 Welcome to the JavaScript Starter Projects repository! This is a collection of projects that are designed to help beginners enhance their JavaScript skills. 
