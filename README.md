@@ -1,7 +1,8 @@
 # beginner-javascript-projects
 
 # LIVE WEBSITE PREVIEW :
-1) Weather App :  https://beginner-javascript-projects.vercel.app/
+DAY 1 => Weather App :  https://beginner-javascript-projects.vercel.app/
+DAY 2 => To do App 
 
 # JavaScript Starter Projects
 
