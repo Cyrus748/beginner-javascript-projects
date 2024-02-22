@@ -1,6 +1,6 @@
 # beginner-javascript-projects
 
-#LIVE WEBSITE PREVIEW :
+# LIVE WEBSITE PREVIEW :
 1) Weather App :  https://beginner-javascript-projects.vercel.app/
 
 # JavaScript Starter Projects
