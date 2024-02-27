@@ -1,9 +1,13 @@
 # beginner-javascript-projects
 
 # LIVE WEBSITE PREVIEW :
-DAY 1 => Weather App :  https://beginner-javascript-projects.vercel.app/
+DAY 1 => Weather App 
 
 DAY 2 => To do App 
+
+DAY 3 => Drawing Pad Apk 
+
+DAY 4 => Number Guessing Game
 
 # JavaScript Starter Projects
 
