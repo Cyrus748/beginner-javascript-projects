@@ -9,6 +9,8 @@ DAY 3 => Drawing Pad Apk
 
 DAY 4 => Number Guessing Game
 
+DAY 5 => Text to Speech Application
+
 # JavaScript Starter Projects
 
 Welcome to the JavaScript Starter Projects repository! This is a collection of projects that are designed to help beginners enhance their JavaScript skills. 
